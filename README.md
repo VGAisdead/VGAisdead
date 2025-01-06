@@ -1,4 +1,4 @@
-👋 Hi, I’m @VGAisdead, I'm here when my GPUisdead 😅
+👋 Hi, I’m @VGAisdead, I'm here when my GPUisdead 😅 \n
 👀 I’m interested in almost every topic that connects with IT or finance.
 🌱 I’m currently learning modern JavaScript, after that I jump on TypeScript and React aswell.
 💞️ I’m looking to collaborate on literally anything, however I don't know pretty much yet.
